@@ -9,5 +9,5 @@ Total Number of Incorrectly Identified Images: 145
 
 For Executing the Script
 1) Download libraries in requirements.txt
-2) Add car images inside car_images folder as a numerical order
+2) Add car images inside car_images folder as a numerical order (write plate texts into this folder named as plate_text.txt file)
 3) Execute main.py 
