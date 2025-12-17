@@ -9,5 +9,5 @@ Total Number of Incorrectly Identified Images: 145
 
 For Executing the Script
 1) Download libraries in requirements.txt
-2) Add car images inside car_image folder as a numerical order
+2) Add car images inside car_images folder as a numerical order
 3) Execute main.py 
